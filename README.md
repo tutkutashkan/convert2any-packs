@@ -9,6 +9,7 @@ Each archive contains `THIRD_PARTY_NOTICES.txt` and the license texts for the
 components in that archive. Source and build information for components that
 require it are published with the corresponding release.
 
-Only packs that have completed the distribution review are published here.
-The base app and any unpublished conversion paths are not available from this
-repository.
+The release includes component inventories, license texts, build recipes, and
+corresponding source archives for the published packs. Codec patent exposure
+needs separate review for commercial distribution. The base app and PDF OCR
+are not distributed from this repository.
