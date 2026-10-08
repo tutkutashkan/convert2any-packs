@@ -11,5 +11,5 @@ require it are published with the corresponding release.
 
 The release includes component inventories, license texts, build recipes, and
 corresponding source archives for the published packs. Codec patent exposure
-needs separate review for commercial distribution. The base app and PDF OCR
-are not distributed from this repository.
+needs separate review for commercial distribution. The base app is not
+distributed from this repository.
